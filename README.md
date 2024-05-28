@@ -58,26 +58,15 @@ Follow the instructions below to get a copy of the project up and running on you
 - **Clear Completed Tasks**: Click on the "Clear All Checked Tasks" button to remove all completed tasks.
 - **Search Tasks**: Enter the task description in the search input field to filter tasks.
 
-## Contributing
+## Live Demo
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+You can view the live demo of the app [here](https://todolist-kav.vercel.app/).
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- [Bootstrap](https://getbootstrap.com/)
-- [Font Awesome](https://fontawesome.com/)
-- [Animate.css](https://animate.style/)
-- [Pexels](https://www.pexels.com/) for the background image
 
 ## Contact
 
