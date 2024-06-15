@@ -34,13 +34,13 @@ Follow the instructions below to get a copy of the project up and running on you
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/todo-list-app.git
+    git clone https://github.com/kavyaballa1020/Todo-List-Website.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd todo-list-app
+    cd Todo-List-Website
     ```
 
 3. Open the `index.html` file in your web browser to view the app:
